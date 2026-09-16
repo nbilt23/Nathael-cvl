@@ -6,7 +6,7 @@
  * Une seule chose à changer ci-dessous : CODE.
  */
 
-const CODE = "change-moi-vraiment";   // code d'accès à la modération
+const CODE = "182309";   // code d'accès à la modération
 const SHEET = "idees";                // nom de l'onglet du tableur
 
 function doPost(e) {
